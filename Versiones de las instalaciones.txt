@@ -1,0 +1,25 @@
+C:\CURSOS_VARIOS\UDEMY\curso-angular-8-plus>node -v
+v10.16.0
+
+C:\CURSOS_VARIOS\UDEMY\curso-angular-8-plus>npm -v
+6.9.0
+
+C:\CURSOS_VARIOS\UDEMY\curso-angular-8-plus>tsc --version
+Version 3.5.3
+
+C:\CURSOS_VARIOS\UDEMY\curso-angular-8-plus>ng version
+
+Angular CLI: 8.2.0
+Node: 10.16.0
+OS: win32 x64
+Angular:
+...
+
+Package                      Version
+------------------------------------------------------
+@angular-devkit/architect    0.802.0
+@angular-devkit/core         8.2.0
+@angular-devkit/schematics   8.2.0
+@schematics/angular          8.2.0
+@schematics/update           0.802.0
+rxjs                         6.4.0
