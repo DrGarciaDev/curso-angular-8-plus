@@ -9,3 +9,11 @@ cualquiera = nombre;
 cualquiera = numero;
 cualquiera = booleano;
 cualquiera = hoy;
+var spiderman = {
+    npmbre: "peter",
+    edad: 20
+};
+spiderman = {
+    npmbre: "juan",
+    edad: 30
+};
