@@ -1,4 +1,5 @@
 {
+  "exclude": ["typescript"],
   "compilerOptions": {
     "watch": true,
     /* Basic Options */
